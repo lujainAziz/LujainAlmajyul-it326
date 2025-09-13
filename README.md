@@ -12,6 +12,7 @@ Jwana Alothman | 445203020
 Jood Alkhneen | 445201348
 
 **Project Description**
+
 Our project focuses on analyzing the Students Performance Dataset, which provides detailed information about students’ academic achievements along with their social, demographic, and lifestyle factors. The main objective is to apply data mining techniques to classify students into performance categories (e.g., A, B, C, D, F) and to cluster students with similar characteristics. This approach will help uncover patterns and key factors that influence academic success or challenges.
 
 **Project Motivation**
