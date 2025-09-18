@@ -1,5 +1,5 @@
 # Data Mining IT326 Project | Student Performance
-Lab: 64073 (Wednesday 10-12 ), Group number: 1
+Lab: 64073 (Wednesday 10-12 ), Group number: 34
 
 **Group Members:**
 
